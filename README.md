@@ -1,6 +1,6 @@
 # 🧠 Minecraft Server Scanner 
 
-A sleek, modern, and cyberpunk-inspired Python application to scan IP addresses and ports for online Minecraft servers. This tool features a fast threaded scanner and a visually polished PyQt5 GUI for detecting Java Edition Minecraft servers and displaying live player statistics.
+A sleek, modern, and inspired Python application to scan IP addresses and ports for online Minecraft servers. This tool features a fast threaded scanner and a visually polished PyQt5 GUI for detecting Java Edition Minecraft servers and displaying live player statistics.
 
 ## ✨ Features
 
